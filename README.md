@@ -1,0 +1,3 @@
+# Synapse-releases
+
+Synapse Installer
